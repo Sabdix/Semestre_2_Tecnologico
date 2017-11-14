@@ -1,0 +1,29 @@
+Vochito
+A
+Honda
+Accord
+21 01 2009
+25000
+C
+Dodge
+Dakota
+10 01 2009
+20000
+1
+C
+Ford
+Lobo
+31 05 2049
+25000
+2
+A
+Toyota
+Camry
+23 10 2009
+22000
+A
+Ford
+Mustang
+24 02 2010
+1000000
+
